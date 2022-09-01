@@ -1,4 +1,4 @@
-# Revenue and Profit Estimation through Statistical Market Research and Demand Analysis
+# Pricing Analysis through Statistical Market Research and Demand Curve Estimation
 
 <p align="center">
   <img src="images/demand-curve-regression.jpg" width="500" />
