@@ -1,4 +1,4 @@
-# Revenue and Profit Analysis by Using and Estimating Demand Curves 
+# Revenue and Profit Estimation with Statistical Market Research and Demand Curve Analysis
 
 <p align="center">
   <img src="images/demand-curve-regression.jpg" width="500" />
