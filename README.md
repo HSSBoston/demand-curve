@@ -1,6 +1,10 @@
-# Pricing Analysis through Statistical Market Research and Demand Curve Estimation
+# Statistical and Demand-based Pricing Analysis
 
+I run a ["business"](https://italian19.blogspot.com/) that produces fresh pasta. I wanted reasonable pricing strategies for my pasta because I used to price them at random. So I learned and implemented 3 pricing strategies 
 
+- 
+- 
+- 
 
 <p align="center">
   <img src="images/demand-curve-regression.jpg" width="500" />
