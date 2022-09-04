@@ -1,8 +1,8 @@
 # Statistical and Demand-based Pricing Analysis
 
-I run a ["business"](https://italian19.blogspot.com/) that produces fresh pasta. I wanted reasonable pricing strategies for my pasta because I used to price them at random. So I learned and implemented 3 pricing strategies 
+I run a ["business"](https://italian19.blogspot.com/) that produces fresh pasta. I wanted reasonable pricing strategies for my pasta because I used to price them randomly. So I learned and implemented 3 pricing strategies 
 
-- 
+- Checked the prices of fresh pasta at local stores, calculated their statistics such as mean, median, mode and quartiles, and priced my pasta in comparison to those stats. 
 - 
 - 
 
