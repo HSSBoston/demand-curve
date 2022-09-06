@@ -2,9 +2,9 @@
 
 I run a ["business"](https://italian19.blogspot.com/) that produces fresh pasta. I wanted reasonable pricing strategies for my pasta because I used to price them randomly. So I learned and implemented 3 pricing strategies 
 
-- Checked the prices of fresh pasta at local stores, calculated their statistics such as mean, median, mode and quartiles, and priced my pasta in comparison to those stats. 
-- 
-- 
+- I checked the prices of fresh pasta at local stores, calculated their statistics such as mean, median, mode and quartiles, and priced my pasta in comparison to those stats. 
+- I estimated the customer demand of my pasta, expressed it as a demand curve, and calculated the most profitable price based on the demand curve. 
+- I found a regression curve that has the best fit to a demand curve, and calculated the most profitable price based on the regression curve. 
 
 <p align="center">
   <img src="images/demand-curve-regression.jpg" width="500" />
